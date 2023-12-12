@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpf72s6oj2g1s"]
+
+[ext_resource type="Texture2D" uid="uid://da0fvl084rnag" path="res://mainworld/Level 1/asset/oak_woods_tileset.png" id="1_mqf2g"]
+
+[node name="Level_1" type="Node2D"]
+
+[node name="OakWoodsTileset" type="Sprite2D" parent="."]
+position = Vector2(226, 141)
+texture = ExtResource("1_mqf2g")
